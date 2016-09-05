@@ -11,4 +11,8 @@
 		@else
 		<p>Post tidak ada.</p>
 		@endif
+		
+		<p>tes</p>
+		
+		<p>tes</p>
 @stop
